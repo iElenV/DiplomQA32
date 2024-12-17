@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cb7588c-49b5-40ea-9536-a51c43fed063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/controller/CliController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/dao/OwnerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/dao/VetCardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/dao/VeterinarianDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/VetCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/model/Veterinarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/service/OwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/service/PetsBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/QA32/service/VeterinarianService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/QA32/dao/OwnerDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/QA32/dao/VetCardDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/QA32/dao/VeterinarianDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/QA32/service/OwnerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/QA32/service/VeterinarianServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pIV0aBXw2IrlgVtb8TaCpt0G8K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Acer/Desktop/QA/Project_Diplom/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.QA32.dao" />
+      <recent name="ru.QA32.controller" />
+      <recent name="ru.QA32.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VeterinarianServiceTest">
+    <configuration name="OwnerServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.QA32.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.QA32.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.QA32.service.OwnerServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerServiceTest.createOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.QA32.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.QA32.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.QA32.service.OwnerServiceTest" />
+      <option name="METHOD_NAME" value="createOwner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VetCardDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.QA32.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.QA32.dao" />
+      <option name="MAIN_CLASS_NAME" value="ru.QA32.dao.VetCardDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeterinarianDaoTest.saveAndReadVeterinarian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.QA32.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.QA32.dao" />
+      <option name="MAIN_CLASS_NAME" value="ru.QA32.dao.VeterinarianDaoTest" />
+      <option name="METHOD_NAME" value="saveAndReadVeterinarian" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeterinarianServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.QA32.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.QA32.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.QA32.service.VeterinarianServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VeterinarianServiceTest" />
+        <item itemvalue="JUnit.OwnerServiceTest" />
+        <item itemvalue="JUnit.OwnerServiceTest.createOwner" />
+        <item itemvalue="JUnit.VeterinarianDaoTest.saveAndReadVeterinarian" />
+        <item itemvalue="JUnit.VetCardDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb7588c-49b5-40ea-9536-a51c43fed063" name="Changes" comment="" />
+      <created>1732453355680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732453355680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/QA32/service/VeterinarianService.java</url>
+          <line>69</line>
+          <properties class="ru.QA32.service.VeterinarianService" method="priem">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/dao/VeterinarianDaoTest.java</url>
+          <line>12</line>
+          <properties class="ru.QA32.dao.VeterinarianDaoTest" method="saveAndReadVeterinarian">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/service/OwnerServiceTest.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/service/OwnerServiceTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/service/OwnerServiceTest.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/service/OwnerServiceTest.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/service/VeterinarianServiceTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/QA32/dao/VetCardDaoTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="str" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
